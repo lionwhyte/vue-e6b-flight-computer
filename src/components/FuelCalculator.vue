@@ -5,7 +5,7 @@ const { groundSpeed, distance, fuelFlow, reserveMinutes, calculations } = useFue
 </script>
 
 <template>
-  <div class="bg-slate-800 border border-slate-700 rounded-xl p-6 shadow-xl max-w-md mx-auto mt-6">
+  <div class="bg-slate-800 border border-slate-700 rounded-xl p-6 shadow-xl max-w-md w-full mx-auto mt-6">
     <h2 class="text-xl font-bold text-cyan-400 mb-4 flex items-center gap-2">
       ⛽ Fuel, Time & Distance Calculator
     </h2>
