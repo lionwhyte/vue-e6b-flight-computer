@@ -2,6 +2,7 @@
 import CrosswindCalculator from './components/CrosswindCalculator.vue'
 import FuelCalculator from './components/FuelCalculator.vue'
 import DensityAltitudeCalculator from './components/DensityAltitudeCalculator.vue'
+import NavigationCalculator from './components/NavigationCalculator.vue'
 </script>
 
 <template>
@@ -16,6 +17,7 @@ import DensityAltitudeCalculator from './components/DensityAltitudeCalculator.vu
       <CrosswindCalculator />
       <FuelCalculator />
       <DensityAltitudeCalculator />
+      <NavigationCalculator />
     </div>
   </main>
 </template>
